@@ -1,0 +1,41 @@
+Boodschappen, zie specificatie 21% 84,51 17,75 102,26
+9% 94,64 8,52 103,16
+Verpakkingsmateriaal geleverd (statiegeld) Geen 12,00 0,00 12,00
+Statiegeld geleverd Geen 27,00 0,00 27,00
+Plastic verpakkingsmateriaal 21% 0,04 0,01 0,05
+Servicekosten 21% 6,57 1,38 7,95
+Retour statiegeld Geen -41,80 0,00 -41,80
+Verpakkingsmateriaal retour (statiegeld) Geen -8,00 0,00 -8,00
+
+Meester&Zn Achterham 1 9% 1,28 0,11 1,39
+AH Bapao kip 10 9% 8,17 0,73 8,90
+Vegetarische Slager Bapao no beef ketjap 15 9% 15,00 1,35 16,35
+AH Bapao rundvlees 11 9% 8,98 0,81 9,79
+AH Bruine bollen 2 9% 1,45 0,13 1,58
+Apple Bandit Classic apple 3 21% 12,62 2,65 15,27
++ Statiegeld 3 Geen 1,80 0,00 1,80
+Pickwick Earl grey zwarte thee 2 9% 2,00 0,18 2,18
+AH Elstar 1 9% 2,19 0,20 2,39
+Corona Extra pils 2 21% 14,69 3,09 17,78
+Optimel Framboos 12 9% 6,50 0,58 7,08
+Meester&Zn Gerookte salami 1 9% 1,18 0,11 1,29
+Unox Good rice rijst en Indiase c... 20 9% 21,06 1,89 22,95
+AH Halfvolle koffiemelk 3 9% 1,79 0,16 1,95
+De Zaanse Hoeve Jong belegen 48+ pla... 1 9% 2,83 0,26 3,09
+Pickwick Joy of tea spicy chai kruidenthee 1 9% 1,88 0,17 2,05
+Apple Bandit Juicy apple 3 21% 12,62 2,65 15,27
++ Statiegeld 3 Geen 1,80 0,00 1,80
+AH Kaas uien bollen 2 9% 3,76 0,34 4,10
+AH BASIC Koffieroom 4 9% 1,83 0,17 2,00
+AH Maiswafel paprika portie 4 9% 4,37 0,39 4,76
+Grolsch Premium pilsner krat 6 21% 44,58 9,36 53,94
++ Statiegeld 6 Geen 23,40 0,00 23,40
+AH Rozijnen krentenbollen 2 9% 2,37 0,21 2,58
+Wasa Sandwich cream cheese, tomato ... 3 9% 3,17 0,28 3,45
+Pickwick Spices caramelised pear zwart... 2 9% 3,39 0,31 3,70
+Efteling Volle spaarkaart 12 Geen 0,00 0,00 0,00
+AH Witte bollen 2 9% 1,45 0,13 1,58
+Efteling zegelvel 3 Geen 0,00 0,00 0,00
+overige
+Verpakkingsmateriaal geleverd (statiegeld)
+AH Klapkrat 3 Geen
